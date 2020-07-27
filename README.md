@@ -1,2 +1,3 @@
-# teaRecipe
-## this is the recipe for making tea .
+# teaRecipe : it is an easy process of making tea
+
+
